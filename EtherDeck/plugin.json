@@ -1,0 +1,16 @@
+{
+  "name": "USB Ethernet Gadget",
+  "author": "you",
+  "flags": [
+    "root"
+  ],
+  "publish": {
+    "tags": [
+      "utility",
+      "networking"
+    ],
+    "description": "Toggle USB gadget mode so the Deck appears as an Ethernet adapter over USB-C.",
+    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/decky-plugin-template"
+  },
+  "api_version": 1
+}
