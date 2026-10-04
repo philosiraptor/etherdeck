@@ -24,27 +24,35 @@ now it is as simple as launching the steamlink client on the target device and p
 Q&A 
 
 Q: why cant I just get this through decky?
+
 A: the authors of Decky have a zero tolerance policy on any plugin that was written with AI help. maybe that'll change, but I doubt it, they are attempting to curb malicious behavior, but boy howdy thats a bad idea to rely on humans alone to do that. I wish them the best, Id love to see it included in their repo, but man, that kind of decision is a loaded burrito.
 
 Q: did you write this?
+
 A: a little bit. sorta. AI did alot of the lifting, I fixed DHCP and did testing.
 
 Q: what about using X device?
+
 A: try it and let me know! 
 
 Q: couldnt i just use a usb kvm ?
+
 A: probably? but then you'd have to buy another thing.
 
 Q: whats the framerate like streaming over usb?
+
 A: It depends! my observed latency over this link was sub millisecond most of the time, your situation is unique so your outcome is too. definitely better than trying to do this over most wifi people have.
 
 Q: WHY?
+
 A: why have little screen when you can have big screen.
 
 Q: did you run out of adjectives ?
+
 A: YES. ME TALK TOO MUCH.
 
 Q: will you update this so it keeps working?
+
 A: ME BUSY. ME HAVE JORB. ME NOT COMPUTER MAN. 
 
 
